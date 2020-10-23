@@ -1,0 +1,7 @@
+name: Dart_Cmdline.Calculator
+version: 1.0.0
+description: This project is a implementation of a cmdline calculator in Dart
+homepage: https://www.github.com/javiermontenegro/Dart_Cmdline.Calculator
+
+environment:
+  sdk: '>=2.10.0-2.0.dev <2.11.0'
